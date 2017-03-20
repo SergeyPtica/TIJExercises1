@@ -3,6 +3,7 @@ package object;
 /**
  * Created by Serg on 19.03.2017.
  */
+
 public class E08_StaticTest {
     static int i = 47;
     public static void main(String[] args) {
